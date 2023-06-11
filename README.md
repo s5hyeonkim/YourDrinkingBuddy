@@ -105,11 +105,11 @@
 
 1. 술 선택
 
-![recipe](./image/recipe.gif)
+![recipe](./image/recipe.mp4)
 
-![menu](./image/menu.gif)
+![menu](./image/menu.mp4)
 
-![changeDrink](./image/changeDrink.gif)
+![changeDrink](./image/changeDrink.mp4)
 
 ### 술게임 화면
 
