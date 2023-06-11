@@ -105,35 +105,35 @@
 
 1. 술 선택
 
-![recipe](./image/recipe.mp4)
+![recipe](./image/recipe.gif)
 
-![menu](./image/menu.mp4)
+![menu](./image/menu.gif)
 
-![changeDrink](./image/changeDrink.mp4)
+![changeDrink](./image/changeDrink.gif)
 
 ### 술게임 화면
 
 1. 게임 선택
 
-![start1](./image/start1.mp4)
+![start1](./image/start1.gif)
 
 2. 버튼 많이 누르기 게임
 
-![buttonMax2](./image/buttonMax2.mp4)
+![buttonMax2](./image/buttonMax2.gif)
        
 3. 버튼으로 10초 맞추기 게임
 
-![TenCount3](./image/TemCount3.mp4)
+![TenCount3](./image/TemCount3.gif)
 
 4. 바람을 불어 풍선 많이 터뜨리기 게임
 
 5. 심박수를 활용한 진실게임
 
-![heartbeat5](./image/heartbeat5.mp4)
+![heartbeat5](./image/heartbeat5.gif)
 
 6. 랜덤 무게값 넘기기 게임
 
-![weight4](./image/weight4.mp4)
+![weight4](./image/weight4.gif)
 
 ### 서비스 사용 방법
 
