@@ -26,11 +26,11 @@
 - 작은 디스플레이에 맞는 UI로 사용자의 편리함을 추구하였습니다.
 - 게임의 특성에 맞게 도트 캐릭터를 담은 화면을 구성하여 게임을 시각적으로도 즐길 수 있도록 하였습니다.
 
-## 개발
+## 개발 멤버 소개
 
-<details><summary> <b> 팀원</b> </summary>
-![member](./image/member.png) 
-</details>
+![member](./image/member.png)
+
+## 개발
 
 <details><summary> <b> 상세 기술스택 및 버전</b> </summary>
 
