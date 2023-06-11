@@ -87,6 +87,7 @@
 ![harware2](./image/harware2.png)
 
 - 제작된 술친구 하드웨어 (좌 정면, 우 후면)
+<br>
 <img src="./image/front.png" height="400px" width="400px" /> <img src="./image/back.png" height="400px" width="400px" /> <br>
 
 
