@@ -68,6 +68,7 @@
 </details>
 
 서비스 아키텍처
+
 ![tech](./image/tech.png)
 
 ## 설계
@@ -82,9 +83,11 @@
 
 ### Hardware 설계
 - 술 디스펜서
+
 ![hardware1](./image/hardware1.png)
 
 - 게임 컨트롤러
+
 ![harware2](./image/harware2.png)
 
 - 제작된 술친구 하드웨어 (좌 정면, 우 후면)
