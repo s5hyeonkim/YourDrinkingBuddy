@@ -31,6 +31,41 @@
 
 # 개발
 
+<details><summary> <b> 상세 기술스택 및 버전</b> </summary>
+
+| 구분     | 기술스택        | 상세내용           | 버전      |
+| -------- | --------------- | ------------------ | --------- |
+| 공통     | 형상관리        | Gitlab              | \-        |
+|          | 이슈관리        | Jira                | \-        |
+|          | 커뮤니케이션    | Mattermost, Notion | \-        |
+| BackEnd  |                 | JPA                |      |
+|          | Java            | Zulu               |  |
+|          |                 | Spring Boot        | 2.7.11     |
+|          | IDE             | IntelliJ           | 2022.3.1  |
+|          | Build           | Gradle             |        |
+|          | API Docs        | Postman            |           |
+| FrontEnd | HTML5           |                    | \-        |
+|          | CSS3            |                    | \-        |
+|          | JavaScript(ES6) |                    | \-        |
+|          | React           | React              | 18.2.0    |
+|          | Node.js         | npm                | 18.14.2   |
+|          | IDE             | Visual Studio Code | 1.78.2    |
+| Server   | 서버            | AWS EC2            | \-        |
+|          | 플랫폼          | Ubuntu\AWS Liunx   | 20.04 , AWS Linux2|
+|          | CI/CD           | Docker             | 20.10.23  |
+|          |                 | Jenkins            | v.2.375.3-lts-jdk11|
+|          |                 | nginx              | v.1.23.3|
+|DATA      | DB              | MariaDB            | v.10.10.3 |
+|Embedded  |                 | C                  | \-        |
+|          |                 | JavaScript         | \-        |
+|          |                 | Arduino            | \-        |
+|          |                 | ESP8266Wifi        | \-        |
+|          |                 | Adafruit_NeoPixel  | \-        |
+|          |                 | Raspberry Pi       | 7.17.9    |
+|          |                 | Socket.io(v.4.5.4) | v.4.5.4   |
+|          |                 | Node.js            | v.18.04   |
+</details>
+
 ## 개발 환경 / 사용 기술
 
        형상 관리 도구       
