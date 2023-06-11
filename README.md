@@ -84,10 +84,10 @@
 ![hardware1](./image/hardware1.png)
 
 - 게임 컨트롤러
-![hardware2](./image/hardware2.png)
+![harware2](./image/harware2.png)
 
 - 제작된 술친구 하드웨어 (좌 정면, 우 후면)
-- <img src="./image/front.png height="400px" width="400px" /> <img src="./image/back.png" height="400px" width="400px" /> <br>
+<img src="./image/front.png" height="400px" width="400px" /> <img src="./image/back.png" height="400px" width="400px" /> <br>
 
 
 ## 기능 상세
