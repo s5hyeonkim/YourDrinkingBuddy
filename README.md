@@ -7,7 +7,7 @@
 - 개발기간 : 2023.01.03 ~ 2023.02.17
 
 팀원
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5d791b0-5a59-40fd-9b35-9be00bacb67c/Untitled.png)
+![member](./image/member.png) 
 
 ## 기획 의도
 
@@ -66,63 +66,8 @@
 |          |                 | Node.js            | v.18.04   |
 </details>
 
-## 개발 환경 / 사용 기술
-
-       형상 관리 도구       
-
-- Git
-- Gitlab
-
-            협업 도구            
-
-- Jira
-- Mattermost
-- Notion
-
-                IDE                
-
-- VSCode (v.1.75.1)
-
-             UI/UX             
-
-- Figma
-
-        웹 프론트엔드            
-
-- Javascript
-- React.js (v.18.2.0)
-- Redux (v.1.9.1)
-- Socket.io(v.4.5.4)
-
-           인프라             
-
-- AWS EC2
-- Docker(v.20.10.23)
-- Jenkins(v.2.375.3-lts-jdk11)
-- nginx(v.1.23.3)
-
-           웹 백엔드            
-
-- Typescript(v.4.7.4)
-- Nest.js (v.9.0.0)
-- Fastify (v.9.2.1)
-- Typeorm (v.0.3.11)
-- MariaDB (v.10.10.3)
-- Node.js(v.18.04)
-
-              Embedded               
-
-- C
-- Arduino
-- ESP8266Wifi
-- Adafruit_NeoPixel
-- Raspberry Pi
-- Javascript
-- Socket.io(v.4.5.4)
-- Node.js(v.18.04)
-
 서비스 아키텍처
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3311acc1-ec5c-4abe-b9b7-02022b55d201/Untitled.png)
+![tech](./image/tech.png)
 
 # 설계
 
@@ -136,45 +81,47 @@
 
 ## Hardware 설계
 - 술 디스펜서
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5255de2c-feea-4e88-8763-c1c78f14134f/Untitled.png)
+![hardware1](./image/hardware1.png)
 
 - 게임 컨트롤러
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d24226e-3e37-433b-a00f-4c721579da65/Untitled.png)
+![hardware2](./image/hardware2.png)
 
 - 제작된 술친구 하드웨어 (좌 정면, 우 후면)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a2ae461-4234-4c5b-9fcc-753e73401ef4/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e6f7a2b-5a16-4162-aba0-82f8d93ed5c1/Untitled.png)
+- <img src="./image/front.png height="400px" width="400px" /> <img src="./image/back.png" height="400px" width="400px" /> <br>
+
 
 ## 기능 상세
 
 메인 화면
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/729aa86f-dc7b-450b-ae2a-0dcfae586979/Untitled.png)
+![mainpage](./image/mainpage.png)
 
 ## 술 디스펜서 화면
 
 1. 술 선택
-[술 만들기_레시피도 바꿔보고 비율도 바꿔보고 shot_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/599bd4e7-fb44-447d-bc75-e2092a0a8044/%EC%88%A0_%EB%A7%8C%EB%93%A4%EA%B8%B0_%EB%A0%88%EC%8B%9C%ED%94%BC%EB%8F%84_%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B3%A0_%EB%B9%84%EC%9C%A8%EB%8F%84_%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B3%A0_shot_Trim.mp4)
-[술 만들기_레시피도 바꿔보고 비율도 바꿔보고 shot_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/599bd4e7-fb44-447d-bc75-e2092a0a8044/%EC%88%A0_%EB%A7%8C%EB%93%A4%EA%B8%B0_%EB%A0%88%EC%8B%9C%ED%94%BC%EB%8F%84_%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B3%A0_%EB%B9%84%EC%9C%A8%EB%8F%84_%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B3%A0_shot_Trim.mp4)
-[술 만들기_레시피도 바꿔보고 비율도 바꿔보고 shot_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/599bd4e7-fb44-447d-bc75-e2092a0a8044/%EC%88%A0_%EB%A7%8C%EB%93%A4%EA%B8%B0_%EB%A0%88%EC%8B%9C%ED%94%BC%EB%8F%84_%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B3%A0_%EB%B9%84%EC%9C%A8%EB%8F%84_%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B3%A0_shot_Trim.mp4)
+![recipe](./image/recipe.gif)
+
+![menu](./image/menu.gif)
+
+![changeDrink](./image/changeDrink.gif)
 
 ## 술게임 화면
 
 1. 게임 선택
-[1_첫 시작 영상_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75ec5706-1b39-4c70-bbc2-5d824257d9a6/1_%EC%B2%AB_%EC%8B%9C%EC%9E%91_%EC%98%81%EC%83%81_Trim.mp4)
+![start1](./image/start1.gif)
 
 2. 버튼 많이 누르기 게임
-    [2_버튼 게임_많이 누르기_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/850926d3-ce1a-4148-aeb6-a54e7eb6ed85/2_%EB%B2%84%ED%8A%BC_%EA%B2%8C%EC%9E%84_%EB%A7%8E%EC%9D%B4_%EB%88%84%EB%A5%B4%EA%B8%B0_Trim.mp4)
-
+![buttonMax2](./image/buttonMax2.gif)
+       
 3. 버튼으로 10초 맞추기 게임
-    [3_버튼 게임_10초 맞추기_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b37232af-dfdc-4b25-9818-c6a5adfd3e5f/3_%EB%B2%84%ED%8A%BC_%EA%B2%8C%EC%9E%84_10%EC%B4%88_%EB%A7%9E%EC%B6%94%EA%B8%B0_Trim.mp4)
-    
+![TenCount3](./image/TemCount3.gif)
+
 4. 바람을 불어 풍선 많이 터뜨리기 게임
 
 5. 심박수를 활용한 진실게임
-    [5_심박게임_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/673b9c3e-2b64-41cb-a431-13c13efb0f0c/5_%EC%8B%AC%EB%B0%95%EA%B2%8C%EC%9E%84_Trim.mp4)
-    
+![heartbeat5](./image/heartbeat5.gif)
+
 6. 랜덤 무게값 넘기기 게임
-[4_무게 게임_Trim.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f5cf61f-bfcf-43e9-94db-0efd1dab4bef/4_%EB%AC%B4%EA%B2%8C_%EA%B2%8C%EC%9E%84_Trim.mp4)
+![weight4](./image/weight4.gif)
 
 # 서비스 사용 방법
 
